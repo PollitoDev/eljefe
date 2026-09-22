@@ -8,4 +8,7 @@ lee sin
 xin zhao
 jarvan 4
 
-tanques
+tanques:
+malphite
+maokai
+nasus
